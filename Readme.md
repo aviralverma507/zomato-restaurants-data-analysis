@@ -29,5 +29,5 @@ The goal of this analysis was to understand the factors that contribute to high 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AviralVerma507/zomato-analysis.git](https://github.com/AviralVerma507/zomato-analysis.git)
+   git clone [https://github.com/AviralVerma507/Zomato-Restaurants-Data-Analysis.git](https://github.com/AviralVerma507/Zomato-Restaurants-Data-Analysis.git)
    
